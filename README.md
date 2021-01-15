@@ -19,7 +19,7 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chetanamali&show_icons=true&locale=en" alt="chetanamali" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chetanamali&show_icons=true&locale=en" alt="chetanamali" bg_color="#151515/></p>
 
 
 
