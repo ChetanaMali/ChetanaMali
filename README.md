@@ -14,7 +14,7 @@
 
   <a href="https://www.linkedin.com/in/chetana-mali-32aa58192" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1610891374~hmac=5674dc61a87ef62234d6564c8c6469f6" alt="ChetanaMali" height="30" width="40" /></a>
   <a href="https://instagram.com/cm_a_dev" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174855.svg?token=exp=1610680245~hmac=09ef946f5872ce30667dbd2c07f92680" alt="cm_a_dev" height="30" width="40" /></a>
-  <a href="https://instagram.com/cm_a_dev" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174848.svg?token=exp=1610891374~hmac=95d65dcbdc6ab0479c99a925d0abd036" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/chetana.mali.7792/" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174848.svg?token=exp=1610891374~hmac=95d65dcbdc6ab0479c99a925d0abd036" height="30" width="40" /></a>
   
 </p>
 
