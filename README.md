@@ -9,21 +9,35 @@
 
 - ⚡ Fun fact **I like to do work at night or early morning**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+### Connect With Me -  
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/chetana-mali-32aa58192) 
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/cm_a_dev)
+[<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/chetana.mali.7792/)
 
-  <a href="https://www.linkedin.com/in/chetana-mali-32aa58192" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1610891374~hmac=5674dc61a87ef62234d6564c8c6469f6" alt="ChetanaMali" height="30" width="40" /></a>
-  <a href="https://instagram.com/cm_a_dev" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174855.svg?token=exp=1610680245~hmac=09ef946f5872ce30667dbd2c07f92680" alt="cm_a_dev" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/chetana.mali.7792/" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174848.svg?token=exp=1610891374~hmac=95d65dcbdc6ab0479c99a925d0abd036" height="30" width="40" /></a>
-  
+
+### Learning
+![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=Flutter)
+![AR](https://img.shields.io/badge/-Augmented%20Reality-blue?style=flat-square&logo=Unity)
+### Web Development Stack
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+
+
+### Languages and Tools
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Java](https://img.shields.io/badge/-Java-46854e?style=flat-square&logo=Java)
+![C++](https://img.shields.io/badge/-C++-1884ba?style=flat-square&logo=C)
+![C#](https://img.shields.io/badge/-CSharp-69bd15?style=flat-square&logo=C)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+ <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
+### My GitHub Stats
+<p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=chetanamali&show_icons=true&locale=en" alt="chetanamali"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetanamali&theme=dark">
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chetanamali&show_icons=true&locale=en" alt="chetanamali"/></p>
 
 
 
