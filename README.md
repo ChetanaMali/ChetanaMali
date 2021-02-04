@@ -33,7 +33,7 @@
  <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
 ### My GitHub Stats
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=chetanamali&show_icons=true&locale=en" alt="chetanamali"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=chetanamali&show_icons=true&theme=dark&line_height=40">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetanamali&theme=dark">
 
 </p>
