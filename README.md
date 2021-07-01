@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **AR-VR**
 
-- 🌱 I’m currently learning **Blender**
+- 🌱 I’m currently learning **AR Foundation**
 
 - ⚡ Fun fact **I like to do work at night or early morning**
 
@@ -16,7 +16,7 @@
 
 
 ### Learning
-![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=Flutter)
+
 ![AR](https://img.shields.io/badge/-Augmented%20Reality-blue?style=flat-square&logo=Unity)
 ### Web Development Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -24,10 +24,10 @@
 
 
 ### Languages and Tools
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Java](https://img.shields.io/badge/-Java-46854e?style=flat-square&logo=Java)
-![C++](https://img.shields.io/badge/-C++-1884ba?style=flat-square&logo=C)
 ![C#](https://img.shields.io/badge/-CSharp-69bd15?style=flat-square&logo=C)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![C++](https://img.shields.io/badge/-C++-1884ba?style=flat-square&logo=C)
+
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
  <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
