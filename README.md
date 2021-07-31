@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chetana Mali</h1>
-<h3 align="center">A passionate about AR-VR developer</h3>
+<h3 align="center">A passionate about AR-VR developement</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chetanamali&label=Profile%20views&color=0e75b6&style=flat" alt="chetanamali" /> </p>
 
@@ -12,25 +12,23 @@
 ### Connect With Me -  
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/chetana-mali-32aa58192) 
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/cm_a_dev)
-[<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/chetana.mali.7792/)
+[<img src = "https://img.shields.io/badge/youtube-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://www.youtube.com/channel/UCogNt9cFEHML6ZzW95GEiag)
+
 
 
 ### Learning
 
-![AR](https://img.shields.io/badge/-Augmented%20Reality-blue?style=flat-square&logo=Unity)
-### Web Development Stack
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-
+- **Augmented Reality and Virtual Reality**
 
 ### Languages and Tools
-![C#](https://img.shields.io/badge/-CSharp-69bd15?style=flat-square&logo=C)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![C++](https://img.shields.io/badge/-C++-1884ba?style=flat-square&logo=C)
+-   **Unity Game Engine**
+-   **Vuforia**
+-   **GoogleARCore**
+-   **ARFoundation**
+-   **C#**
+-   **C++**
+-   **HTML/CSS**
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
- <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
 ### My GitHub Stats
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=chetanamali&show_icons=true&theme=dark&line_height=40">
