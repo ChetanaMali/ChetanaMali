@@ -25,8 +25,8 @@
 -   **Vuforia**
 -   **GoogleARCore**
 -   **ARFoundation**
+-   **GVR**
 -   **C#**
--   **C++**
 -   **HTML/CSS**
 
 ### My GitHub Stats
