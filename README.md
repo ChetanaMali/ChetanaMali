@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Chetana Mali</h1>
-<h3 align="center">A passionate about AR-VR developement</h3>
+<h3 align="center">A passionate about AR-VR And Game Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chetanamali&label=Profile%20views&color=0e75b6&style=flat" alt="chetanamali" /> </p>
 
-- 🔭 I’m currently working on **AR-VR**
+- 🔭 I’m currently working on **Learning Game Development**
 
-- 🌱 I’m currently learning **AR Foundation**
+- 🌱 I’m currently learning **Game Programming**
 
 - ⚡ Fun fact **I like to do work at night or early morning**
 
@@ -18,15 +18,15 @@
 
 ### Learning
 
-- **Augmented Reality and Virtual Reality**
+- **GAME PROGRAMING**
 
 ### Languages and Tools
 -   **Unity Game Engine**
+-   **C#**
 -   **Vuforia**
--   **GoogleARCore**
 -   **ARFoundation**
 -   **GVR**
--   **C#**
+-   **GoogleARCore**
 -   **HTML/CSS**
 
 ### My GitHub Stats
