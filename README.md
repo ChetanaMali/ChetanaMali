@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Learning Game Development**
 
-- 🌱 I’m currently learning **Game Programming**
+- 🌱 I’m currently learning **Game Programming And Unreal Engine**
 
 - ⚡ Fun fact **I like to do work at night or early morning**
 
@@ -23,11 +23,13 @@
 ### Languages and Tools
 -   **Unity Game Engine**
 -   **C#**
+-   **git**
 -   **Vuforia**
--   **ARFoundation**
 -   **GVR**
--   **GoogleARCore**
--   **HTML/CSS**
+
+### Software
+- **Unity**
+- **Unreal Engine(Basic)**
 
 ### My GitHub Stats
 <p>
