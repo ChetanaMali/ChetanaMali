@@ -23,9 +23,9 @@
 ### Languages and Tools
 -   **Unity Game Engine**
 -   **C#**
+-   **C++**
 -   **git**
 -   **Vuforia**
--   **GVR**
 
 ### Software
 - **Unity**
