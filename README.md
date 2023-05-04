@@ -27,7 +27,7 @@
 
 ### Software
 - **Unity**
-- **Unreal Engine(Basic)**
+- **Unreal Engine**
 
 ### My GitHub Stats
 <p>
