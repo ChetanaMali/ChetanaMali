@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Game Programming And Unreal Engine**
 
-- ⚡ Fun fact **I like to do work at night or early morning**
-
 ### Connect With Me -  
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/chetana-mali-32aa58192) 
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/cm_a_dev)
