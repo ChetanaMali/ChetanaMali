@@ -7,22 +7,29 @@
 
 ### Connect With Me -  
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/chetana-mali-32aa58192) 
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/cm_a_dev)
+
 [<img src = "https://img.shields.io/badge/youtube-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://www.youtube.com/channel/UCogNt9cFEHML6ZzW95GEiag)
 
 
 
 ### Learning
 
-- **UEFN**
+- **DevOps**
 
-### Languages and Tools
--   **C#**
+###Cloud (AWS) - IAM, VPC, EC2, ALB, ASG, S3, Route53, NAT Gateway
+-   **IAM**
 -   **C++**
 -   **git**
 -   **Vuforia**
 
-### Software
+###  Networking - VPC Design, Public/Private Subnets, Security Groups, NACLs, Bastion Host, VPC Peering, Internet
+Gateway
+
+### DevOps Tools - Docker, Terraform, Linux (Ubuntu), Shell Scripting, Git/GitHub, PM2, Nginx, npm
+
+### Programming - Python, C++, C#.
+
+### Game Engine
 - **Unity**
 - **Unreal Engine**
 
