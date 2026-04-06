@@ -12,9 +12,9 @@
 
 
 
-### Learning
+### Learning 
 
-- **DevOps**
+- **Cloud and DevOps**
 
 ### Cloud (AWS) 
 - **IAM, VPC, EC2, ALB, ASG, S3, Route53, NAT Gateway**
