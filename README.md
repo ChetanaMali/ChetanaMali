@@ -17,10 +17,10 @@
 - **Cloud and DevOps**
 
 ### Cloud (AWS) 
-- **IAM, VPC, EC2, ALB, ASG, S3, Route53, NAT Gateway**
+- **IAM, VPC, EC2, ALB, ASG, S3, Route53**
 
 ###  Networking 
-- **VPC Design, Public/Private Subnets, Security Groups, NACLs, Bastion Host, VPC Peering, Internet Gateway**
+- **VPC Design, Public/Private Subnets, Security Groups, NACLs, Bastion Host, VPC Peering, Internet Gateway, NAT Gateway**
 
 
 ### DevOps Tools
@@ -32,12 +32,6 @@
 ### Game Engine
 - **Unity, Unreal Engine**
 
-### My GitHub Stats
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=chetanamali&show_icons=true&theme=dark&line_height=40">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetanamali&theme=dark">
-
-</p>
 
 
 
