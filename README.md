@@ -16,15 +16,18 @@
 
 - **DevOps**
 
-### Cloud (AWS) - IAM, VPC, EC2, ALB, ASG, S3, Route53, NAT Gateway
+### Cloud (AWS) 
+- **IAM, VPC, EC2, ALB, ASG, S3, Route53, NAT Gateway**
 
 ###  Networking 
- - VPC Design, Public/Private Subnets, Security Groups, NACLs, Bastion Host, VPC Peering, Internet Gateway
+- **VPC Design, Public/Private Subnets, Security Groups, NACLs, Bastion Host, VPC Peering, Internet Gateway**
 
 
-### DevOps Tools - Docker, Terraform, Linux (Ubuntu), Shell Scripting, Git/GitHub, PM2, Nginx, npm
+### DevOps Tools
+- **Docker, Terraform, Linux (Ubuntu), Shell Scripting, Git/GitHub, PM2, Nginx, npm**
 
-### Programming - Python, C++, C#.
+### Programming
+- **Python, C++, C#.**
 
 ### Game Engine
 - **Unity**
