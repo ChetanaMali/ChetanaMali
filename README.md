@@ -19,7 +19,7 @@
 ### Cloud (AWS) - IAM, VPC, EC2, ALB, ASG, S3, Route53, NAT Gateway
 
 ###  Networking 
-    - VPC Design, Public/Private Subnets, Security Groups, NACLs, Bastion Host, VPC Peering, Internet Gateway
+ - VPC Design, Public/Private Subnets, Security Groups, NACLs, Bastion Host, VPC Peering, Internet Gateway
 
 
 ### DevOps Tools - Docker, Terraform, Linux (Ubuntu), Shell Scripting, Git/GitHub, PM2, Nginx, npm
