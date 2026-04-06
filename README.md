@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chetanamali&label=Profile%20views&color=0e75b6&style=flat" alt="chetanamali" /> </p>
 
-- 🔭 I’m currently working on **Game Development**
+- 🔭 I’m currently working on **Unreal engine for fortnite**
 
 ### Connect With Me -  
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/chetana-mali-32aa58192) 
@@ -30,8 +30,7 @@
 - **Python, C++, C#.**
 
 ### Game Engine
-- **Unity**
-- **Unreal Engine**
+- **Unity, Unreal Engine**
 
 ### My GitHub Stats
 <p>
